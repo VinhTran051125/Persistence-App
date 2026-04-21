@@ -21,28 +21,10 @@ Chương trình thử nghiệm (PoC) mô phỏng một số kỹ thuật persist
 - Registry persistence / Startup (chỉnh lại theo code của bạn)
 - Tương tác cơ bản với hệ thống
 
-### 2. Báo cáo phân tích mã độc
-Báo cáo phân tích một mẫu mã độc sử dụng cả phương pháp tĩnh và động.
-
-**Nội dung phân tích:**
-- Cấu trúc file và đặc điểm nhận diện
-- Hành vi khi thực thi
-- Hoạt động mạng (nếu có)
-- Indicators of Compromise (IOCs)
-
-## Kỹ năng thể hiện
-- Phân tích mã độc (Static & Dynamic)
-- Reverse Engineering (cơ bản/trung cấp)
-- Hiểu biết về hệ điều hành (Windows/Linux)
-- Lập trình mức thấp
-- Kỹ năng phân tích và viết báo cáo
-
-## Lưu ý
 Dự án này chỉ phục vụ mục đích học tập và nghiên cứu.  
 Tất cả mã nguồn và thử nghiệm đều được thực hiện trong môi trường cách ly.
 
 Tôi không hỗ trợ hoặc khuyến khích bất kỳ hành vi sử dụng sai mục đích nào.
 
 ## Tác giả
-A – Sinh viên An ninh mạng  
-(Có thể thêm LinkedIn/GitHub tại đây)
+Trần Quang Vinh – Sinh viên An ninh mạng  
