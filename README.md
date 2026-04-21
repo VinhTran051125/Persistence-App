@@ -1,7 +1,5 @@
 # Persistence-App
 
-# Nghiên cứu mã độc & Persistence Proof-of-Concept
-
 ## Tổng quan
 Repository này bao gồm các dự án cá nhân của tôi liên quan đến phân tích mã độc và nghiên cứu an ninh tấn công (offensive security). Mục tiêu là hiểu rõ cách mã độc hoạt động, duy trì persistence và tương tác với hệ điều hành.
 
